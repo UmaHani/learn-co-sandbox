@@ -1,0 +1,16 @@
+puts "hello".upcase
+puts "hello".downcase
+puts "hello".reverse
+puts "hello".swapcase
+puts "hello".capitalize
+
+def two_step 
+puts "step to the right"
+puts "step to the left" 
+end 
+
+two_step
+two_step
+two_step
+
+
